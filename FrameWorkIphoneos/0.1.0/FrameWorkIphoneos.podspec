@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/huohuo668@gmail.com/FrameWorkIphoneos'
+  s.homepage         = 'https://github.com/KeepRecord/FrameWorkMerge'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'huohuo668@gmail.com' => 'huoqiuliang@sensetime.com' }
-  s.source           = { :git => 'https://github.com/huohuo668@gmail.com/FrameWorkIphoneos.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/KeepRecord/FrameWorkIphoneos.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
